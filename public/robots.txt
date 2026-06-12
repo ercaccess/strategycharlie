@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://strategycharlie.com/sitemap.xml
